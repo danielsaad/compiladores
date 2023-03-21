@@ -1,4 +1,7 @@
 ---
 layout: home
 ---
-Registre na [sala de aula virtual da disciplina](https://groups.google.com/forum/#!forum/gp-id) para receber as notificações da disciplina.
+
+Inscreva-se na [sala de aula virtual](https://classroom.google.com/c/NTQzNzgzODY5ODcy?cjc=4iizhwz) da disciplina.
+
+[Atendimento discente](https://danielsaad.com/contato).
