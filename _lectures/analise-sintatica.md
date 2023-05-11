@@ -7,4 +7,6 @@ thumbnail: /static_files/presentations/analise-sintatica.png
 links: 
     - url: /assets/aulas/gramaticas.pdf
       name: Gramáticas
+    - url: /assets/aulas/analise-top-down.pdf
+      name: Análise Top-Down
 ---
