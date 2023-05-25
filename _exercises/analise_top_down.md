@@ -5,6 +5,6 @@ title: Análise top-down
 tldr: 
 thumbnail: 
 links: 
-    - url: /assets/listas-de-exercicio/analise-top-down.pdf
+    - url: /assets/listas-de-exercicios/analise-top-down.pdf
       name: pdf
 ---
