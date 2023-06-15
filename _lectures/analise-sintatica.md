@@ -9,4 +9,6 @@ links:
       name: Gramáticas
     - url: /assets/aulas/analise-top-down.pdf
       name: Análise Top-Down
+    - url: /assets/aulas/arvores-sintaticas-abstratas.pdf
+      name: Árvores Sintáticas Abstratas
 ---
