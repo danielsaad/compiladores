@@ -1,7 +1,7 @@
 # Site settings
 course_name: "Compiladores"
 course_description: "Disciplina de Compiladores do curso superior de Bacharelado em Ciência da Computação do IFB, campus Taguatinga."
-course_semester: "2023/1"
+course_semester: "2024/1"
 
 baseurl: "/compiladores" # the subpath of your site, e.g. /blog/
 url: "https://danielsaad.com" # the base hostname & protocol for your site
